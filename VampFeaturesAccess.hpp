@@ -1,5 +1,5 @@
-#ifndef _VAMP_FEATURES_ACCESS_HPP
-#define _VAMP_FEATURES_ACCESS_HPP
+#ifndef VAMP_FEATURES_ACCESS_HPP_
+#define VAMP_FEATURES_ACCESS_HPP_
 
 /* -*- c-basic-offset: 3 indent-tabs-mode: nil -*-  vi:set ts=8 sts=3 sw=3: */
 

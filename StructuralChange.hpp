@@ -1,5 +1,5 @@
-#ifndef _STRUCTURAL_CHANGE_HPP
-#define _STRUCTURAL_CHANGE_HPP
+#ifndef STRUCTURAL_CHANGE_HPP_
+#define STRUCTURAL_CHANGE_HPP_
 
 /* -*- c-basic-offset: 3 indent-tabs-mode: nil -*-  vi:set ts=8 sts=3 sw=3: */
 
